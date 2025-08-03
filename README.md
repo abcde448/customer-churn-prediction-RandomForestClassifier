@@ -1,6 +1,6 @@
 #Customer Churn Prediction
 
-This project aims to analyze and predict customer churn behavior based on transactional and behavioral data. The goal is to identify key factors that drive churn and build a predictive model to help businesses retain customers.
+This project aims to analyze and predict customer churn prediction based on transactional and behavioral data. The goal is to identify key factors that drive churn and build a predictive model to help businesses retain customers.
 
 ---
 
