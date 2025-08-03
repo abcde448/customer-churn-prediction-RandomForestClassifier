@@ -35,10 +35,10 @@ The dataset used in this project contains various attributes related to customer
 - Prepared final train/test sets
 
 ### 3.Modeling & Evaluation
-- Applied Logistic Regression and Random Forest Classifier
-- Used metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC
-- Identified key churn predictors (e.g., margin, contract time)
-- Visualized model performance (Confusion matrix, ROC curve)
+- Applied Random Forest Classifier
+- Used metrics: Accuracy, Precision, Recall, F1-Score
+- Identified key churn predictors (margin, contract time)
+- Visualized model performance
 
 ---
 
@@ -55,6 +55,6 @@ Most churned users had low subscription margins and short tenure.
 
 “Churn risk” increased significantly when customers had < 4 months tenure.
 
-Logistic Regression performed well with interpretable results.
+Random Forest Classifier performed well with interpretable results.
 
 Business stakeholders can use margin & contract length to flag high-risk users.
